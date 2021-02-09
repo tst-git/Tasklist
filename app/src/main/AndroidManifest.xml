@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.practice.tasklist">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tasklist"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/tasklist"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Tasklist">
+        <activity android:name="com.practice.tasklist.TaskDetailActivity" />
+        <activity android:name="com.practice.tasklist.TaskEditActivity" />
+        <activity android:name="com.practice.tasklist.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

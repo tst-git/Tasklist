@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Tasklist</string>
+    <string name="task_name">Name of the task:</string>
+    <string name="scope">Scope of the task:</string>
+    <string name="readiness">Degree of readiness:</string>
+    <string name="details">Details and progress:</string>
+
+    <string name="btn_archive">Archive</string>
+    <string name="btn_plus" translatable="false">+</string>
+    <string name="btn_minus" translatable="false">-</string>
+
+    <string name="archive_it">Delete this finished task?</string>
+    <string name="archive_or_delete">This task is now completed and does not need any actions from you. Should it be deleted or archived?</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="delete_it">Delete this task?</string>
+    <string name="deleting">Task will be deleted permanently and can not be restored later.</string>
+
+</resources>

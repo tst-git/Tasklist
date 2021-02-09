@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tehtävälista</string>
+    <string name="task_name">"Tehtävän nimi: "</string>
+    <string name="scope">Mitä tehtävään kuuluu?</string>
+    <string name="readiness">Valmiusaste:</string>
+    <string name="details">Suunnitelma ja tehtävän toteutuminen:</string>
+    <string name="btn_archive">Arkistoi</string>
+    <string name="btn_cancel">Peruuta</string>
+    <string name="btn_delete">Poista</string>
+    <string name="delete_it">Poistetaanko tehtävä?</string>
+    <string name="deleting">Tehtävä poistetaan pysyvästi eikä sitä voi enää palauttaa.</string>
+    <string name="archive_it">Poistetaanko valmistunut tehtävä?</string>
+    <string name="archive_or_delete">Tehtävä on nyt valmistunut, joten se ei vaadi enää huomiotasi. Poisteteenko vai arkistoidaanko tehtävä?</string>
+
+</resources>
