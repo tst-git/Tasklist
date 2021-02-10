@@ -13,7 +13,8 @@ can read and write and know the numerals (1, 2, 3,...).
 # Features
 Following features are included to this first version:
   - Displaying all tasks in the list view. 
-  - Adding a new task to list.
+  - Viewing details of a task.
+  - Adding a new task to the list.
   - Deleting a task.
   - Editing a task:
      * priority (task will be moved to right position in the list when priority changes)
