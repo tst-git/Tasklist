@@ -10,9 +10,6 @@ more effective and easier to use than the old paper version.
 This application is meant for everyone - regardless of age, education, culture etc.- as long as the user 
 can read and write and know the numerals (1, 2, 3,...).
 
-# Installation
-This app is installed to Android device with a normal procedure.
-
 # Features
 Following features are included to this first version:
   - Displaying all tasks in the list view. 
@@ -25,6 +22,16 @@ Following features are included to this first version:
      * readiness (5%, 25&, 50%, 75%, 100%)
      * details.
    - Archiving a task: when readiness is set ot 100%, the user can select wheather the task is deleted or archived.  
+
+# Supported Operating Systems
+- Android
+
+# Download
+Open Android Studio and select from the main menu VCS > Get from Version Control... > and enter to 
+URL: https://github.com/tst-git/Tasklist. Then press Clone.
+
+# Installation
+This app is run and installed with a normal procedure.
 
 # Roadmap
 I will continue testing and developing this application. I will add more features and make it more powerfull, 
