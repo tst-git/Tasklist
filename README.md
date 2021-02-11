@@ -36,4 +36,4 @@ After you have downloaded the project to Android Studio, select from main menu B
 
 # Roadmap
 I will continue testing and developing this application. I will add more features and make it more powerfull, 
-but still easy to use. I wish, you do not use this idea for commercial use. I am planning to develop this for iOS too.
+but still easy to use. I wish, you do not use this idea or code for commercial use.
