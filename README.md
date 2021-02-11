@@ -32,7 +32,7 @@ Open Android Studio and select from the main menu VCS > Get from Version Control
 URL: https://github.com/tst-git/Tasklist. Then press Clone.
 
 # Installation
-This app is run and installed with a normal procedure.
+After you have downloaded the project to Android Studio, select from main menu Build > Make Project. Then connect your device to computer with USB cable and Run > Run 'app'. Your Android device has to be set to developer mode prior to this action.
 
 # Roadmap
 I will continue testing and developing this application. I will add more features and make it more powerfull, 
