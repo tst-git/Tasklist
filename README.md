@@ -27,6 +27,9 @@ Following features are included to this first version:
 # Supported Operating Systems
 - Android
 
+# Presentation video
+Video can be found from YouTube with the key "xoOQdzoV1Bk" (direct address: https://www.youtube.com/watch?v=xoOQdzoV1Bk).
+
 # Download
 Open Android Studio and select from the main menu VCS > Get from Version Control... > and enter to 
 URL: https://github.com/tst-git/Tasklist. Then press Clone.
